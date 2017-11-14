@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b624654a-fb4e-4c56-86dd-60363717b497" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/[algo]실험 데이터 복구하기.md" afterPath="$PROJECT_DIR$/_posts/2017-11-13-실험-데이터-복구하기.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-09-09-download-this-theme.md" afterPath="$PROJECT_DIR$/_posts/2015-09-09-download-this-theme.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -33,8 +33,8 @@
       <file leaf-file-name="2015-09-09-download-this-theme.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-09-09-download-this-theme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -263,12 +263,12 @@
       <option name="presentableId" value="Default" />
       <updated>1510466899102</updated>
       <workItem from="1510466901342" duration="4978000" />
-      <workItem from="1510672793958" duration="1527000" />
+      <workItem from="1510672793958" duration="1632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6505000" />
+    <option name="totallyTimeSpent" value="6610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -521,8 +521,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-09-09-download-this-theme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
