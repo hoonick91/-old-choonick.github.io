@@ -1,4 +1,8 @@
-## angularjs 체크박스 값들 받아오기
+---
+layout: post
+title:  angularJS 체크박스 값들 받아오기
+updated: 2017-11-14 23:37
+---
 
 
 ```
