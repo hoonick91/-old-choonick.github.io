@@ -47,7 +47,7 @@ blockquote {
 .logo {
   position: relative;
   margin: 0 auto 35px;
-  //text-align: center;
+  text-align: center;
   animation-duration: 0.7s;
   animation-fill-mode: both;
   animation-name: bounce;
@@ -267,7 +267,7 @@ article {
 }
 .page-navigation,
 .footer {
-  //text-align: center;
+  text-align: center;
   max-width: 500px;
   margin: 0 auto;
   font-size: 0.8rem;
