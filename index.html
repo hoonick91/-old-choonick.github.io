@@ -6,7 +6,7 @@ layout: default
 
     {% for post in site.posts %}
     <!--{% unless post.next %}-->
-    <!--<h2>{{ post.date | date: '%Y' }} &#172;</h2>-->
+    <h2>{{ post.date | date: '%Y' }} &#172;</h2>
     <h3>{{ post.date | date: '%b' }} &#172;</h3>
     {% else %}
     {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -16,8 +16,8 @@ layout: default
     <!--{% capture nmonth %}{{ post.next.date | date: '%b' }}{% endcapture %}-->
 
     {% if year != nyear %}
-    <h2>{{ post.date | date: '%Y' }} &#172;</h2>
-    <h3>{{ post.date | date: '%b' }} &#172;</h3>
+    <h2>{{ post.date | date: '%Y %b' }} &#172;</h2>
+    <!--<h3>{{ post.date | date: '%b' }} &#172;</h3>-->
 
     <!--{% if month != nmonth %}-->
     <!--<h3>{{ post.date | date: '%b' }} &#172;</h3>-->
