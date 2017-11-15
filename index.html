@@ -5,19 +5,20 @@ layout: default
 <section>
 
     {% for post in site.posts %}
-    <!--{% unless post.next %}-->
+    {% unless post.next %}
     <h2>{{ post.date | date: '%Y' }} &#172;</h2>
     <h3>{{ post.date | date: '%b' }} &#172;</h3>
     {% else %}
-    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+    <!--{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}-->
+    <!--{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}-->
 
-    <!--{% capture month %}{{ post.date | date: '%b' }}{% endcapture %}-->
-    <!--{% capture nmonth %}{{ post.next.date | date: '%b' }}{% endcapture %}-->
+    {% capture month %}{{ post.date | date: '%b' }}{% endcapture %}
+    {% capture nmonth %}{{ post.next.date | date: '%b' }}{% endcapture %}
 
-    {% if year != nyear %}
-    <h2>{{ post.date | date: '%Y %b' }} &#172;</h2>
-    <!--<h3>{{ post.date | date: '%b' }} &#172;</h3>-->
+    <!--{% if year != nyear %}-->
+    {% if month != nmonth %}
+    <!--<h2>{{ post.date | date: '%Y' }} &#172;</h2>-->
+    <h3>{{ post.date | date: '%b' }} &#172;</h3>
 
     <!--{% if month != nmonth %}-->
     <!--<h3>{{ post.date | date: '%b' }} &#172;</h3>-->
