@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  AngularJS_web facebook login 연동하기
+title:  AngularJS_facebook login 연동하기
 ---
 > 매우 쉽고 간단하다
 
