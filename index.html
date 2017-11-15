@@ -13,7 +13,7 @@ layout: default
     {% capture nmonth %}{{ post.next.date | date: '%b' }}{% endcapture %}
 
     {% if month != nmonth %}
-    <h3>{{ post.next.date | date: '%b' }} &#172;</h3>
+    <h3>{{ post.date | date: '%b' }} &#172;</h3>
     {% endif %}
 
     {% endunless %}
