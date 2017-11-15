@@ -3,8 +3,13 @@ layout: page
 title: About
 ---
 
-Hello.
+- Angularjs 
+- html
+- css
+- javascript
+- jQuery
+- bootstrap 
+- ionic
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
-
-**Less is more..**
+front-end 개발자 입니다.
+ 
