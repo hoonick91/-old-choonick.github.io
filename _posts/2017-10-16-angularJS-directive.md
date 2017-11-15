@@ -1,4 +1,7 @@
-# directive
+---
+layout: post
+title:  [AngularJS] directive
+---
 
 ## 1. 디렉티브란?
 dom엘리먼트

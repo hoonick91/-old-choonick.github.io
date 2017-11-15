@@ -1,3 +1,7 @@
+---
+layout: post
+title:  [bootstrap] gird (그리드)
+---
 ## bootstrap
 > 전체화면을 12개로 나누어 총 합이 12가 되어야 한다.
 

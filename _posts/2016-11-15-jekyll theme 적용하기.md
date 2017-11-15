@@ -1,4 +1,7 @@
-## [the-plain] jekyll theme 적용하기
+---
+layout: post
+title:  [github.io] the-plain jekyll theme 적용하기
+---
 
 - theme를 다운 
 

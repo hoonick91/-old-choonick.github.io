@@ -1,3 +1,7 @@
+---
+layout: post
+title:  [jQuery] pagination
+---
 ## paging
 > 서버에서 페이지의 개수를 받고, 그 수만큼 태그를 만들어준다.
 

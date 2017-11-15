@@ -1,7 +1,10 @@
 ---
 layout: post
+title: [AngularJS] checkbox 값 받아오기
 updated: 2017-11-14 23:37
 ---
+
+
 
 ```
 var chk = document.getElementsByName('chartChk[]');
