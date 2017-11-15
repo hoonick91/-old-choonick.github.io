@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 실험 데이터 복구하기
 updated: 2017-11-13 15:56
 ---
