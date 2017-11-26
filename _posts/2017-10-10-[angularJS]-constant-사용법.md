@@ -1,7 +1,4 @@
----
-layout: post
-title:  AngularJS_error report
----
+
 10월 9일 
 ##form ng-submit = "{functionname}();"
 

@@ -1,7 +1,4 @@
----
-layout: post
-title:  AngularJS_이미지 base64 인코딩
----
+
 
 ## App.js
 > module에 'angularFileUpload' 추가

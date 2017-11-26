@@ -1,7 +1,4 @@
----
-layout: post
-title:  AngularJS_directive
----
+
 
 ## 1. 디렉티브란?
 dom엘리먼트

@@ -1,8 +1,4 @@
----
-layout: post
-title: AngularJS_checkbox 값 받아오기
-updated: 2017-11-14 23:37
----
+
 
 
 

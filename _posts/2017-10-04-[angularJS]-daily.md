@@ -1,7 +1,4 @@
----
-layout: post
-title:  AngularJS_error report
----
+
 
 ## controller의 parameter의 순서는 중요하다
 ### 10월 2일

@@ -1,7 +1,4 @@
----
-layout: post
-title:  AngularJS_selectbox option 선택값 가져오기
----
+
 
 > html
 
