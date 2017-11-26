@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b624654a-fb4e-4c56-86dd-60363717b497" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-10-20-Ionic-시작하기.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-10-27-ionic-전체틀.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-11-12-es5-브라우저-내장-객체.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-10-30-[angularJS]-facebook-login-연동하기.md" afterPath="$PROJECT_DIR$/_posts/2017-10-30-[angularJS]-facebook-login-연동하기.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-05-[angularJS]-selectbox-option-선택하기.md" afterPath="$PROJECT_DIR$/_posts/2017-11-05-[angularJS]-selectbox-option-선택하기.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-11-05-[angularJS]-string에-html태그-적용시키기.md" afterPath="$PROJECT_DIR$/_posts/2017-11-05-[angularJS]-string에-html태그-적용시키기.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/main.scss" afterPath="$PROJECT_DIR$/_sass/main.scss" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,41 +19,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2017-10-30-[angularJS]-facebook-login-연동하기.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-10-30-[angularJS]-facebook-login-연동하기.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-11-05-[angularJS]-selectbox-option-선택하기.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-11-05-[angularJS]-selectbox-option-선택하기.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-11-05-[angularJS]-string에-html태그-적용시키기.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-11-05-[angularJS]-string에-html태그-적용시키기.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_sass/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="195" column="20" lean-forward="false" selection-start-line="195" selection-start-column="20" selection-end-line="195" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -122,7 +88,6 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-30-angularJS-facebook-login-연동하기.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/about.md" />
-        <option value="$PROJECT_DIR$/_sass/main.scss" />
         <option value="$PROJECT_DIR$/_posts/2017-09-24-angularJS-directive.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-25-angularJS-routeProvider.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-25-angularJS-반복되는 이미지,글,제목 띄우기.md" />
@@ -131,6 +96,13 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-30-[angularJS]-facebook-login-연동하기.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-05-[angularJS]-selectbox-option-선택하기.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-05-[angularJS]-string에-html태그-적용시키기.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-13-[angularJS]-npm-install-ApplicatLib-문제-해결-방법.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-11-14-[angularJS]-체크박스-값들-받아오기.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-16-[angularJS]-directive.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-13-[angularJS]-base64인코딩.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-10-[angularJS]-constant-사용법.md" />
+        <option value="$PROJECT_DIR$/_posts/2017-10-04-[angularJS]-daily.md" />
+        <option value="$PROJECT_DIR$/_sass/main.scss" />
       </list>
     </option>
   </component>
@@ -200,7 +172,7 @@
             <path>
               <item name="angular" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -251,12 +223,12 @@
       <workItem from="1510676078628" duration="14000" />
       <workItem from="1510676106072" duration="13000" />
       <workItem from="1510676137433" duration="12678000" />
-      <workItem from="1511691971309" duration="28000" />
+      <workItem from="1511691971309" duration="287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19384000" />
+    <option name="totallyTimeSpent" value="19643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -268,7 +240,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46823528" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46823528" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5070422" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -295,23 +267,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/10월 23일 오류보고서.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2015-09-09-download-this-theme.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2015-09-06-lorem-ipsum.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-13-실험-데이터-복구하기.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-12-브라우저-내장객체-BOM.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2016-10-18-very-long-title-post.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-12-es5-브라우저-내장객체-BOM.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-13-[algorithm]실험-데이터-복구하기.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2017-11-12-javascript-브라우저-관련-객체.md" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-10-07-bootstrap-bootstrap.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-07-jQuery-paging.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-10-angularJS-constant-사용법.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-13-angularJS-base64인코딩.md" />
@@ -411,14 +366,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="294" column="14" lean-forward="false" selection-start-line="294" selection-start-column="14" selection-end-line="294" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-04-angularJS-daily.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-angularJS-Service-factory.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-angularJS의 흐름.md" />
@@ -475,6 +422,135 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-13-[angularJS]-npm-install-ApplicatLib-문제-해결-방법.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-14-[angularJS]-체크박스-값들-받아오기.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-16-[Angular]-tutorial-Display a Heroes List.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-16-[Angular]-tutorial-The-application-shell.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-16-[angularJS]-directive.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-13-[angularJS]-base64인코딩.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-10-[angularJS]-constant-사용법.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-04-[angularJS]-daily.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-[angularJS]-Service-factory.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-[angularJS] 흐름.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-[angularJS]-반복되는 이미지,글,제목 띄우기.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="195" column="20" lean-forward="false" selection-start-line="195" selection-start-column="20" selection-end-line="195" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
