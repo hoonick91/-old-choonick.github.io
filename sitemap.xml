@@ -4,6 +4,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for post in site.posts %}
     <url>
-        <loc>{{ site.url }}</loc>
+        <loc>https://choonick.github.io/</loc>
     </url>
 </urlset>
