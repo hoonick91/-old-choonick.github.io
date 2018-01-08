@@ -17,12 +17,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_sass/main.scss">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="434">
               <caret line="213" column="3" lean-forward="false" selection-start-line="213" selection-start-column="3" selection-end-line="213" selection-end-column="3" />
+=======
+            <state relative-caret-position="0">
+              <caret line="18" column="64" lean-forward="false" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="339" column="7" lean-forward="false" selection-start-line="339" selection-start-column="7" selection-end-line="339" selection-end-column="7" />
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#li#0;n#ul#0;n#section#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#li#2;n#ul#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,9 +103,11 @@
       <find>footer</find>
       <find>text-align</find>
       <find>http</find>
-      <find>article</find>
       <find>500px</find>
       <find>section</find>
+      <find>article</find>
+      <find>ul</find>
+      <find>title</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -67,7 +131,6 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-12-[es5] 브라우저 내장 객체.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-12-javascript-브라우저-관련-객체.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-12-es5-브라우저-내장.md" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2017-11-12-es5-브라우저-내장-객체.md" />
         <option value="$PROJECT_DIR$/_posts/2016-11-15-jekyll theme 적용하기.md" />
@@ -84,13 +147,13 @@
         <option value="$PROJECT_DIR$/_posts/2017-11-14-angularJS-체크박스-값들-받아오기.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-14-javascript-함수-호출 방식.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-30-angularJS-facebook-login-연동하기.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-24-angularJS-directive.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-25-angularJS-routeProvider.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-25-angularJS-반복되는 이미지,글,제목 띄우기.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-25-angularJS의 흐름.md" />
         <option value="$PROJECT_DIR$/_posts/2017-09-26-angularJS-Service-factory.md" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/_posts/2017-10-30-[angularJS]-facebook-login-연동하기.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-05-[angularJS]-selectbox-option-선택하기.md" />
         <option value="$PROJECT_DIR$/_posts/2017-11-05-[angularJS]-string에-html태그-적용시키기.md" />
@@ -101,6 +164,11 @@
         <option value="$PROJECT_DIR$/_posts/2017-10-10-[angularJS]-constant-사용법.md" />
         <option value="$PROJECT_DIR$/_posts/2017-10-04-[angularJS]-daily.md" />
         <option value="$PROJECT_DIR$/_sass/main.scss" />
+=======
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_sass/main.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
       </list>
     </option>
   </component>
@@ -164,8 +232,23 @@
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="angular" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="main_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main_blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
             </path>
           </expand>
           <select />
@@ -215,24 +298,44 @@
       <workItem from="1510672793958" duration="1673000" />
       <workItem from="1510676078628" duration="14000" />
       <workItem from="1510676106072" duration="13000" />
+<<<<<<< HEAD
       <workItem from="1510676137433" duration="12678000" />
       <workItem from="1511691971309" duration="694000" />
+=======
+      <workItem from="1510676137433" duration="12999000" />
+      <workItem from="1510761829342" duration="1191000" />
+      <workItem from="1510829544771" duration="251000" />
+      <workItem from="1511684399348" duration="877000" />
+      <workItem from="1511691005967" duration="1148000" />
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="20050000" />
+=======
+    <option name="totallyTimeSpent" value="23144000" />
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
+<<<<<<< HEAD
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27222222" sideWeight="0.49295774" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49295774" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46823528" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39411765" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5070422" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -259,6 +362,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/_posts/2015-09-09-download-this-theme.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2015-09-06-lorem-ipsum.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-13-실험-데이터-복구하기.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-12-브라우저-내장객체-BOM.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2016-10-18-very-long-title-post.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-12-es5-브라우저-내장객체-BOM.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-13-[algorithm]실험-데이터-복구하기.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-11-12-javascript-브라우저-관련-객체.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-07-bootstrap-bootstrap.md" />
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-07-jQuery-paging.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-10-angularJS-constant-사용법.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-13-angularJS-base64인코딩.md" />
@@ -284,14 +399,6 @@
     <entry file="file://$PROJECT_DIR$/assets/touch-icon.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="52" lean-forward="false" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html">
@@ -343,21 +450,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-angularJS의 흐름.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-9-26-angularJS-Service-factory.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-9-25-angularJS-routeProvider.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-9-24-angularJS-directive.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-9-25-angularJS의 흐름.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-9-25-angularJS-ng-repeat.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-angularJS-반복되는 이미지,글,제목 띄우기.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2016-11-15-jekyll theme 적용하기.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-angularJS-Service-factory.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2017-10-04-angularJS-daily.md" />
+    <entry file="file://$PROJECT_DIR$/404.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+<<<<<<< HEAD
           <first_editor relative-caret-position="225">
             <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+=======
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-        </state>
-      </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-04-angularJS-daily.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-26-angularJS-Service-factory.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-09-25-angularJS의 흐름.md" />
@@ -369,21 +488,25 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-9-25-angularJS의 흐름.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2017-9-25-angularJS-ng-repeat.md" />
     <entry file="file://$PROJECT_DIR$/_sass/syntax.scss">
+=======
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="100" column="19" lean-forward="false" selection-start-line="100" selection-start-column="19" selection-end-line="100" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/core.scss">
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/_posts/2017-10-30-[angularJS]-facebook-login-연동하기.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -440,15 +563,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-16-[Angular]-tutorial-Display a Heroes List.md">
+=======
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="64" lean-forward="false" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/syntax.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="247" column="3" lean-forward="true" selection-start-line="247" selection-start-column="3" selection-end-line="247" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.md">
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+<<<<<<< HEAD
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-11-16-[Angular]-tutorial-The-application-shell.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -524,6 +667,47 @@
             <folding />
           </first_editor>
           <second_editor />
+=======
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/core.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="339" column="7" lean-forward="false" selection-start-line="339" selection-start-column="7" selection-end-line="339" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#li#0;n#ul#0;n#section#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#li#2;n#ul#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+>>>>>>> 3d13316fc31976f161b587d3af7dc649896507e2
         </state>
       </provider>
     </entry>
